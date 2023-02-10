@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visarut-tippun/)  ![](https://visitor-badge.glitch.me/badge?page_id=knottx/knottx)
 
-My name is Visarut Tippun and I'm a Mobile developer.<br>
+I'm a Mobile developer.<br>
 
 Native iOS apps with Swift using [RxSwift](https://github.com/ReactiveX/RxSwift), [Alamofire](https://github.com/Alamofire/Alamofire), etc.<br>
 And my Swift Library available on CocoaPods and Swift Package Manager.
