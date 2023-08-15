@@ -12,5 +12,5 @@ I'm an iOS and Flutter Developer.<br>
   - [ImagePickerManager](https://github.com/knottx/ImagePickerManager)
   - [JWTCodable](https://github.com/knottx/JWTCodable)
 - Android/iOS apps with Flutter using [GetX](https://github.com/jonataslaw/getx), [Dio](https://github.com/flutterchina/dio), etc.
-<br>Experience using payment SDK [Stripe](https://github.com/flutter-stripe/flutter_stripe).
+<br>Experience using payment SDK [Flutter Stripe](https://github.com/flutter-stripe/flutter_stripe).
 - For more information [knottx.github.io](https://knottx.github.io/)
