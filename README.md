@@ -4,6 +4,8 @@
 
 I'm an iOS and Flutter Developer.<br>
 - Based in Bangkok, Thailand
+- Android/iOS apps with Flutter using [Bloc](https://pub.dev/packages/flutter_bloc), [GetX](https://pub.dev/packages/get), [Dio](https://pub.dev/packages/dio), etc.
+<br>Experience using payment SDK [Flutter Stripe](https://github.com/flutter-stripe/flutter_stripe).
 - Native iOS apps with Swift using [RxSwift](https://github.com/ReactiveX/RxSwift), [Alamofire](https://github.com/Alamofire/Alamofire), etc. 
 <br>Experience using payment SDK [Omise](https://github.com/omise/omise-ios), [2C2P](https://developer.2c2p.com/docs/sdk-download-sdk).
 <br>My Swift Library available on CocoaPods and Swift Package Manager.
@@ -11,6 +13,4 @@ I'm an iOS and Flutter Developer.<br>
   - [AppStoreManager](https://github.com/knottx/AppStoreManager)
   - [ImagePickerManager](https://github.com/knottx/ImagePickerManager)
   - [JWTCodable](https://github.com/knottx/JWTCodable)
-- Android/iOS apps with Flutter using [Bloc](https://pub.dev/packages/flutter_bloc), [GetX](https://pub.dev/packages/get), [Dio](https://pub.dev/packages/dio), etc.
-<br>Experience using payment SDK [Flutter Stripe](https://github.com/flutter-stripe/flutter_stripe).
 - For more information [knottx.github.io](https://knottx.github.io/)
