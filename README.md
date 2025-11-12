@@ -6,4 +6,4 @@ A Mobile Developer (iOS + Flutter)
 
 I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions.
 
-Visit my portfolio https://knottx.github.io
+Visit my portfolio https://knottx.dev
